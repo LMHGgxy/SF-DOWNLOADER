@@ -17,7 +17,7 @@ pip3 install pytube
 pip3 install python-dotenv
 ```
 
-- After having installed these 3 libraries, we create an application in "[Spotify Creator](https://developer.spotify.com/dashboard/create)", we copy our `CLIENT_ID` and our `CLIENT_SECRET`
+- After having installed these 3 libraries, we create an application in the [Spotify App Creator](https://developer.spotify.com/dashboard/create), we copy our `CLIENT_ID` and our `CLIENT_SECRET`
 - we go to the `.env` file to add our `CLIENT_ID` and our `CLIENT_SECRET`
 
 ## execution
